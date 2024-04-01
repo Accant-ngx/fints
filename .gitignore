@@ -1,3 +1,8 @@
+### IDEs
+.idea
+.vscode
+
+### fints
 cache/
 coverage/
 dist/
